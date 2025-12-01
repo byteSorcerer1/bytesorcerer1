@@ -20,6 +20,12 @@ A high-performance AI-driven content moderation tool designed specifically for t
 
 ---
 
+### 💻 Desktop Applications
+
+| Application | Description | Link |
+| :--- | :--- | :--- |
+| **Regular Tapper** | A delightful, interactive desktop companion that visualizes your keyboard and mouse input with an animated avatar. Built with **C# & WPF**. | <a href="https://github.com/byteSorcerer1/Regular-Tapper" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"></a> |
+
 ### 📱 Live Mobile Applications
 
 | Application | Description | Link |
@@ -36,6 +42,7 @@ A high-performance AI-driven content moderation tool designed specifically for t
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.bash.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a>
 </p>
 
 **Mobile & Frontend**
